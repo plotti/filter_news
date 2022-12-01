@@ -11,3 +11,4 @@ When I started using it I realized how much of a website is news-junk that i am 
 
 Discussion: Obviously the filtering would need to be constantly updated to match the page layout, but with a community of people its not hard to do this, similarly like for adblock lists. I would love to find people who want to turn this script with me into a browser extension that allows people without coding skills to perform this sort of filtering. I also wonder if there are similar projects out there.
 
+![demo](https://github.com/plotti/filter_news/blob/main/demo.jpg?raw=true)
